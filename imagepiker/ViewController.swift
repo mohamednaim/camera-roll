@@ -16,5 +16,10 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func exprement(_ sender: UIButton) {
+        let nextnext=UIImagePickerController()
+        present(nextnext,animated:true,completion: nil )
+    }
+    
 }
 
