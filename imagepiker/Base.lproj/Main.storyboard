@@ -23,7 +23,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="experiment"/>
                                 <connections>
-                                    <action selector="exprement:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aTV-ye-mnj"/>
+                                    <action selector="exprement" destination="BYZ-38-t0r" eventType="touchUpInside" id="aNg-Qc-Izb"/>
                                 </connections>
                             </button>
                         </subviews>
